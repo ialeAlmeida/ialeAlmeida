@@ -10,7 +10,7 @@ Comecei recentemente a criar meu portifólio aqui, no GitHub. Com o objetivo de 
 
 ### 📋 Linguagens
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]()
 
 ### 📚 Frameworks, Platforms and Libraries
