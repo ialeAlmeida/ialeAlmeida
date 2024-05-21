@@ -4,7 +4,7 @@
 
 Me chamo Iale Almeida, tenho 21 anos, moro em Recife-PE, sou graduanda em Sistemas para Internet e atualmente estou procurando a minha primeira oportunidade como desenvolvedora.
 
-Comecei recentemente a construir meu portifólio aqui, no GitHub. Com o objetivo de fortalecer minhas Hard Skills e apresentar meu raciocínio na codificação. 
+Comecei recentemente a construir meu portifólio aqui, no GitHub, com o objetivo de fortalecer minhas Hard Skills e apresentar meu raciocínio na codificação. 
 
 ## Skills
 
